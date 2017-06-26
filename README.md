@@ -6,7 +6,7 @@ Run `make`, an executable called `kata` should compile directly.
 ## Usage
 `./kata "question" "answer1" "answer2..."`
 
-Exercice:
+##Exercice:
 
 Mr. Khalkhoul, an amazing teacher, likes to answer questions sent by his students via e-mail, but he often doesn't have the time to answer all of them. In this kata you will help him by making a program that finds some of the answers.
 
